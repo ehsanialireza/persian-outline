@@ -3,7 +3,7 @@
 # How to use 
 
 ```
-git clone http://168.119.116.208:3000/alirezaehsani/avand-outline.git
-cd avand-outline
+git clone https://github.com/ehsanialireza/persian-outline.git
+cd persian-outline
 make install
 ```
